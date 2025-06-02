@@ -11,7 +11,7 @@ The system is built with the following core technologies:
 => Tkinter for the graphical user interface (GUI). 
 => MySQL for database management. 
 => Pillow (PIL) for image processing. 
-</pre>pre>
+</pre>
 
 <pre>
 The system provides six main modules through its GUI: 
