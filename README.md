@@ -18,4 +18,4 @@ An automatic Attendance System using the face recognition system
 => Attendance Management – View, import, export, and reset attendance logs. 
 => Developer Info – Show information about the development team. 
 => Help Desk – Contact details and help support. 
-</pre>
+<pre/>
