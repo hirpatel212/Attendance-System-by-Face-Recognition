@@ -11,10 +11,11 @@ An automatic Attendance System using the face recognition system
 => MySQL for database management. 
 => Pillow (PIL) for image processing. <pre/>
 
-The system provides six main modules through its GUI: 
+<pre>The system provides six main modules through its GUI: 
 <br>=> Student Management – Register student details and capture photo samples. 
 <br>=> Dataset Training – Train the facial recognition model using the captured images. 
 <br>=> Face Recognition – Detect and recognize faces in real-time to mark attendance. 
 <br>=> Attendance Management – View, import, export, and reset attendance logs. 
 <br>=> Developer Info – Show information about the development team. 
 <br>=> Help Desk – Contact details and help support. 
+</pre>
